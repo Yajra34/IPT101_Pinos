@@ -10,3 +10,4 @@ commit one
 commit two
 
 branch commit1
+branch commit2
